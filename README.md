@@ -5,6 +5,7 @@
 | Name | Version |
 |---|---|
 | Ubuntu | 20.04 |
+| GPU | GTX 1080Ti |
 | NVIDIA Driver | 515.65.01 |
 | CUDA | 10.1 |
 | cuDNN |   |
