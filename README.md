@@ -1,4 +1,4 @@
-# Ubuntu-20.04-DeepLearning-Environments-Setting
+# Ubuntu-20.04-CUDA-cuDNN-PyTorch
 中文版本(https://traveling-process-89d.notion.site/Ubuntu-20-04-DeepLearning-655e63dc86aa4edea87600decccb3237)
 
 ## Results
